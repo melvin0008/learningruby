@@ -1,0 +1,27 @@
+intialize - constructor
+
+objects x=y alias
+
+class variables @@
+class constants Foo
+can be used outside the class also Classname::constant
+class functions
+
+def self.functionname
+
+while calling class.function
+
+****private object state
+only getters setters
+attr_reader
+attr_accessor
+
+
+
+methods are public by default
+
+check the overiding of ruby third part
+
+
+dynamic dispatch:late binding: virtual methods
+it may call a method of a subclass if it exists
